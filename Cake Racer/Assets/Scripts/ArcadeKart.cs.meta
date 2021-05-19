@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e640712f070d774b88f62968e224718
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rocket: {fileID: 5437544104255474285, guid: 7e4007c425fbc8e4e953eef442fe2305,
+      type: 3}
+  - CenterOfMass: {instanceID: 0}
+  - FrontLeftWheel: {instanceID: 0}
+  - FrontRightWheel: {instanceID: 0}
+  - RearLeftWheel: {instanceID: 0}
+  - RearRightWheel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

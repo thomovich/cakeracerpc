@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: be18f0d82b244564d98f4f7967b2cf05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerups: {instanceID: 0}
+  - boostPrefab: {fileID: 4771069697836875836, guid: 1ba4d130066f7ae44856e82199d9b2ab,
+      type: 3}
+  - rocketPrefab: {fileID: 2273601617255257531, guid: 931de454efad4a140a8cebfd2531726a,
+      type: 3}
+  - Canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
